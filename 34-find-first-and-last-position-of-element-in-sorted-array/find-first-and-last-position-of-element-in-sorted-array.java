@@ -34,6 +34,5 @@ class Solution {
         ans[1] = last;
 
         return ans;
-
     }
 }
